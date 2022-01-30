@@ -16,6 +16,7 @@ I'm a beginner learning
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[C in depth](https://www.amazon.in/C-Depth-Deepali-Srivastava/dp/8183330487/ref=sr_1_1?crid=1EVKVCJAYP2WP&keywords=c+in+depth&qid=1643545607&sprefix=C+in+depth%2Caps%2C2713&sr=8-1)
 
 
 ## 🛠 Skills
